@@ -4,7 +4,7 @@ import Table from './Table';
 class App extends Component{
     render(){
         return(
-            <div className="Container">
+            <div className="container">
                 <Table />
             </div>
         )
